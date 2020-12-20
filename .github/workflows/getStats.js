@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 const Chartscii = require("chartscii");
-const fs = require("fs")
+const fs = require("fs");
 
 fetch("https://codestats.net/api/users/ardittristan")
   .then((res) => res.json())
@@ -48,6 +48,9 @@ fetch("https://codestats.net/api/users/ardittristan")
         char: "■",
       });
 
-      fs.writeFileSync("graph.txt", "```\n" + chart.create() + "\n```")
+      let file = fs.readFileSync("README.md", "utf-8");
+      file = file.replace(/(<!-- insert_codestats_start -->).*(<!-- insert_codestats_end -->)/gsu);
+
+      fs.writeFileSync("README.md", "<!-- insert_codestats_start -->\n\n```\n" + chart.create() + "\n```\n\n<!-- insert_codestats_end -->");
     }
   );

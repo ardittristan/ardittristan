@@ -22,15 +22,3 @@ jobs:
         shell: bash
         id: get-codestat-graph
         run: node ./.github/workflows/getStats.js
-
-      - name: Add CodeStats Graph
-        uses: unfor19/replacer-action@v1.0.3
-        with:
-          src-file-path: graph.txt
-          dst-file-path: README.md
-          start-value: "<!-- insert_codestats_start -->"
-          end-value: "<!-- insert_codestats_end -->"
-          git-commit-msg: Update readme values
-          git-skip-commit: false
-          git-skip-push: false
-          create-backup: false
