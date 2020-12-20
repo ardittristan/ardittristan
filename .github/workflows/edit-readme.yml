@@ -1,6 +1,8 @@
 name: Update README.md
 on:
-  release:
+  push:
+    paths:
+      - '.github/workflows/**'
   schedule:
     - cron: "0 0,12 * * *"
 
