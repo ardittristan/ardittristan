@@ -21,12 +21,12 @@ jobs:
       - name: Get CodeStats Graph
         shell: bash
         id: get-codestat-graph
-        run: echo "$(node ./.github/workflows/getStats.js)" > codestat_graph.log
+        run: node ./.github/workflows/getStats.js)"
 
       - name: Add CodeStats Graph
         uses: unfor19/replacer-action@v1.0.3
         with:
-          src-file-path: codestat_graph.log
+          src-file-path: graph.txt
           dst-file-path: README.md
           start-value: "<!-- insert_codestats_start -->"
           end-value: "<!-- insert_codestats_end -->"

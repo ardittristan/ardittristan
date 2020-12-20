@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const Chartscii = require("chartscii");
+const fs = require("fs")
 
 fetch("https://codestats.net/api/users/ardittristan")
   .then((res) => res.json())
@@ -47,6 +48,6 @@ fetch("https://codestats.net/api/users/ardittristan")
         char: "■",
       });
 
-      console.log("```\n" + chart.create() + "\n```");
+      fs.writeFileSync("graph.txt", "```\n" + chart.create() + "\n```")
     }
   );
