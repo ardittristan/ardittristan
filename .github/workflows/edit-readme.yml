@@ -1,0 +1,36 @@
+name: Update README.md
+on:
+  release:
+  schedule:
+    - cron: "@daily"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Create Node Environment
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+
+      - name: Install Dependencies
+        run: npm install chartscii node-fetch --only=prod
+
+      - name: Get CodeStats Graph
+        shell: bash
+        id: get-codestat-graph
+        run: echo "$(node ./.github/workflows/getStats.js)" > codestat_graph.log
+
+      - name: Add CodeStats Graph
+        uses: unfor19/replacer-action@v1.0.3
+        with:
+          src-file-path: codestat_graph.log
+          dst-file-path: README.md
+          start-value: "<!-- insert_codestats_start -->"
+          end-value: "<!-- insert_codestats_end -->"
+          git-commit-msg: Update readme values
+          git-skip-commit: false
+          git-skip-push: false
+          create-backup: false
