@@ -2,7 +2,7 @@ name: Update README.md
 on:
   release:
   schedule:
-    - cron: "@daily"
+    - cron: "0 0,12 * * *"
 
 jobs:
   update-readme:
