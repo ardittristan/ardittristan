@@ -25,11 +25,11 @@ jobs:
 
       - name: Git Commit and Push
         uses: github-actions-x/commit@v2.7
-          with:
-            github-token: ${{ secrets.GITHUB_TOKEN }}
-            push-branch: 'master'
-            commit-message: 'Update Graph'
-            force-add: 'true'
-            files: README.md
-            name: GitHub Actions
-            email: actions@github.com
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'master'
+          commit-message: 'Update Graph'
+          force-add: 'true'
+          files: README.md
+          name: GitHub Actions
+          email: actions@github.com
