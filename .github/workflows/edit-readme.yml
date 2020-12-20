@@ -21,7 +21,7 @@ jobs:
       - name: Get CodeStats Graph
         shell: bash
         id: get-codestat-graph
-        run: node ./.github/workflows/getStats.js)"
+        run: node ./.github/workflows/getStats.js
 
       - name: Add CodeStats Graph
         uses: unfor19/replacer-action@v1.0.3
