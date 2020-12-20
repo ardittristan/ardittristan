@@ -49,7 +49,7 @@ fetch("https://codestats.net/api/users/ardittristan")
       });
 
       let file = fs.readFileSync("README.md", "utf-8");
-      file = file.replace(/(<!-- insert_codestats_start -->).*(<!-- insert_codestats_end -->)/gsu, "<!-- insert_codestats_start -->\n\n```ldif\n" + chart.create() + "\n```\n\n<!-- insert_codestats_end -->");
+      file = file.replace(/(<!-- insert_codestats_start -->).*(<!-- insert_codestats_end -->)/gsu, "<!-- insert_codestats_start -->\n\n```yaml\n" + chart.create() + "\n```\n\n<!-- insert_codestats_end -->");
 
       fs.writeFileSync("README.md", file);
     }
