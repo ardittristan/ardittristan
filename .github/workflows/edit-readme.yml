@@ -18,7 +18,7 @@ jobs:
           node-version: 14.x
 
       - name: Install Dependencies
-        run: npm install chartscii node-fetch --only=prod
+        run: npm install chartscii node-fetch@^2.x.x --only=prod
 
       - name: Get CodeStats Graph
         shell: bash
