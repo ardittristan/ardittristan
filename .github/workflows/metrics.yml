@@ -4,7 +4,7 @@ on:
     - cron: "0 0,6/3 * * *"
   push:
     paths:
-      - '.github/workflows/**'
+      - ".github/workflows/**"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -33,3 +33,4 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, languages, editors, os
+          plugin_achievements: yes
