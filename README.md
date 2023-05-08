@@ -12,7 +12,7 @@ I'm Ardit, an independent coder from the Netherlands. Right now I enjoy making m
 
 <!-- wakatime stats -->
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ardittristan&layout=compact&theme=cobalt&title_color=00ffff&custom_title=Last%20weeks%20coding%20activity)](https://github.com/anuraghazra/github-readme-stats)  
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ardittristan&layout=compact&range=last_7_days&theme=cobalt&title_color=00ffff&custom_title=Last%20weeks%20coding%20activity)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub metrics](https://raw.githubusercontent.com/ardittristan/ardittristan/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 Keystrokes in languages:
