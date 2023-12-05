@@ -50,3 +50,7 @@ jobs:
           plugin_steam_games_ignored: "1546320"
           plugin_steam_achievements_limit: "0"
           plugin_achievements_only: polyglot, stargazer, maintainer, developer, scripter, explorer, inspirer
+          extras_css: |
+            .track img {
+              display: none;
+            }
