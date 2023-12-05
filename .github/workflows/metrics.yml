@@ -41,7 +41,7 @@ jobs:
           plugin_achievements_threshold: B
           plugin_music: yes
           plugin_music_provider: lastfm
-          plubin_music_token: ${{ secrets.LASTFM_KEY }}
+          plugin_music_token: ${{ secrets.LASTFM_KEY }}
           plugin_music_user: ardittristan
           plugin_music_mode: top
           plugin_steam: yes
