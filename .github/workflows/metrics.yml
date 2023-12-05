@@ -17,6 +17,7 @@ jobs:
           config_timezone: Europe/Amsterdam
           repositories_forks: yes
           repositories_skipped: cheat-engine, tachiyomi-extensions, postcss, VirtualXposed_12
+          repositories: 78
           config_order: base.header, wakatime, anilist, base.activity+community, base.repositories, habits
           optimize: css, xml
           plugin_languages: yes
