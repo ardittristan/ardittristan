@@ -17,7 +17,6 @@ jobs:
           config_timezone: Europe/Amsterdam
           repositories_forks: yes
           repositories_skipped: cheat-engine, tachiyomi-extensions, postcss, VirtualXposed_12
-          repositories: 78
           config_order: base.header, wakatime, anilist, base.activity+community, base.repositories, habits
           optimize: css, xml
           plugin_languages: yes
@@ -31,7 +30,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_followup: yes
           plugin_lines: yes
-          plugin_traffic: yes
+          # plugin_traffic: yes
           plugin_anilist: yes
           plugin_anilist_user: ardittristan
           plugin_anilist_sections: ""
