@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1911" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1891" class="">
     <defs>
         <style/>
     </defs>
@@ -42,9 +42,9 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -71,7 +71,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~19 coding hours recorded
+                            ~16 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -85,7 +85,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~4 hours of coding per day
+                            ~3 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -477,7 +477,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 6.897067997504679%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.143041736658483%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                         </div>
@@ -670,12 +670,6 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 2 days
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 6 days
@@ -696,7 +690,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.84
+                            Average per day at ~0.83
                         </div>
                     </section>
                 </div>
@@ -2656,6 +2650,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1739130434782608 0,1.1739130434782608 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1739130434782608 1.7,2.1739130434782608 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2808,15 +2807,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAABwMFBggCBAkAAf/EAC8QAAEDAwMCBQMEAwEAAAAAAAECAwQABREGEiEHMRMUIkFRCEJhIzJxgRUXJFL/xAAZAQEBAQEBAQAAAAAAAAAAAAADAgQFAAH/xAAjEQACAgICAgEFAAAAAAAAAAABAgADESESMQQTFDJBQlFx/9oADAMBAAIRAxEAPwCr7DAU3vXnb8Ct0lWQkjeccYr6rBX7JFP9g085cWS64rwWjw0pX3K+KF3m6ijPc1rVp6fcm/FZZUlgfudPZNPA0NOXHEhl1Lsc+kLSk4Bo09LNAPXWCGw06xABwpSz+4+/9UcLRoq0W0N7I+/aMEfb/OKgZaI9iVnEpcrpjqBTaFMRVvNHnelPApCf051DFb3pgOvJxyUjtV+BFYQ2AhlpKf8AyE1iuJHWcLYbx8bariYXyc/jOb8mPIhOqafbU24ONqhTdIYSUqUg5UnlVdAtddNLDq2ItuTEbZkhOW3WgE7T+cd6qH1O6bXTQ9x/XbLkFSvS+B6VfiqBK9yWKWDXcgraNyhjso4zVjuk2ixeXILLzSm2I+HVtnuAfu/g0CtHsCRqSE1t8RtSwCmr19O7Qm22pLy0jzLiAkqA+32FGBybE02v669dyTQ4TMSMiPFQlDaBjCRjNLAYNa91nN262vzHThDScqrISmzBRLWcNFAcJ/BFPqc3ZnpbzMVnfIWlDfyfagv1A63Q7K65HsykOyEcc880tqqZctfT5dosnipjpGFPpPAoZ6m6GXO0x1yVP+YbUOVYJKT8mgdyfpE6PjUVAj3Hf6icf6hdTpfWuX5dTfshLYBxW9J64W7U8Ry1aotpdivp27wANn5B9qCF0hu26Yth3HiJOM47impwcnBH8fNQjEzX5Hj1AZUYkj6eNBd9YUk/rJUCgD3NX8sxAtMIbTvLSe3ziufugZRiastz2OEuAkVfi0XCMLExKS6nwQgEqz2NKve5g8o5C4kT68XVVp0G+Unap30kf3W5f7k4vpJ5mCoF1UJsbh2ScCo79Sr7H+vmlrOStRLR+TxUg6VvRNRdMorSmz4K0eEtBPPA71XZIgqvFA5+xjJZJDmm9HWti0vMR5U5wlUp5G4FRGSKlugrpPu1pebvaEOvJWpJWE4SoexxSFl0tPtJEViVFXa95Uhp9vetJPfBPapLDjR7ZDWlOEMglSj8GvKD/J611IONkypP1JafjWTUCTFSAHTuP4zQRcIyd3f2xRO6+amTf9byTHeDkVkBAx8jihe6oKWCBj4olAzqdB3K1AN3M0qWy6lbRI2nIINGez9XSjR/+FfQ4HcABQOKBUZ5Ozw3CQPY5rbG4YIHbsqkdDMlVqsMNLf9ab3anemTEWef+ryiFx+e6ykVFvpw6j2y1282O7yBHOdyHln0kn2oA3TUdxukCNDmPFbcc5QVcmmwPFKspVtx9w4qDnOZoRENfrJnRNzUtnbZ3quLGO6TnvQN639XGhbHrbZ3fW8ChZSeQPmq4o1HckQvLeadLJ4ypRJP4FNLrzjq1FxSlL+VHNfSWbUFaq6zyJn191TjilKJUVHJJ96S4KsZr2CoemkX3kpThP76RVxBuu5Gf//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgCBAEFCQf/xAA0EAACAQEFBAkDAwUAAAAAAAABAgUAAwQGERIhMVGUFTZCVXSSsbLRMkFhIiVxNURiY2T/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAGxEBAQEBAAMBAAAAAAAAAAAAAAIBEQMTMUH/2gAMAwEAAhEDEQA/APC/vlnUdY279n+JofYoAPaHrT+Ydg4p8PxbNF3BmN1siSbuhzOgfir1XHCB6xwbymjWODeU10N6Bh+6rhy6fFHQMP3VcOXT4rPsOOeWscG8po1jg3lNdDegYfuq4cunxR0DEd1XDl0+Kew456UVdxCVTEcuqqVVb5agAKcgNR3VSqgPvkaurOyyLpWXklRdgAtnyA4VQfYoAPaHrT+4dg4psPxbNF3AsbrZEk3dDn+gfis1XAignJknLpmR2/8AQ1Q6fl9v7xJ5D/c9GJFCYhlkQBVF9tAANwGvcKe7DsHFNh+LZou4MxutkSTd0OZ0D8UqufgRMTkxl/WJHmGrDzkyFGUxI7x/cNxrOIVCYjl1UBVW92oAG4DUdgrXWn0j+R61oP8AYfhYu1gI20tY25PaPdbNmZrBSWJQZknKkSxAAuIpdVAVRe7UADcBqOyn8w11civCWXsFIHiLrJMeMtfcalH01Qq+s1LooVJeQVQMgBeGAA4VQqOscG8pqomxLMWclmJzJO0k8avLNS6KFSXkFUDIAXhgAOFa7WODeU0axwbymgmzFmLMSzE5kneTxqFp9I/ketGscG8pqNo40jY28dk8aDofhrq5FeEsvYKQPEXWSY8Za+40/mGurkV4Sy9gpA8RdZZjxlr7jUvH901rn+kEDtD1p/MOwcU2H4tmi7iWN1siSbuh7A/FIL98yKuGal1swiy0iqggAC8MABnurdT0P8YKI7quHLp8VnoKI7quHLp8UYcJbD0WzksxulkSSdpOgUiGJZqXTEMuiS0iqi+WgAF4YZDXuqUzuunuMFEd1XDl0+Kz0FEd1XDl0+KMOEth6LZyWY3WyJJOZJ0CkSxDNS6Yjl0SWkVUXu1AAvDDIajspM7oJ+ZlrLEMtZ2Utf0s0vdqqotuwCgMcgBwrRMxZizEsxOZJ3k8aGJZizEsxOZJ3k8axV3H/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Night of the Full Moon</div>
+                                <div class="name">(the) Gnorp Apologue</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Adventure, Indie, Strategy, Free to Play
+                                        Casual, Indie, Simulation, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2824,7 +2823,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        140 hours played
+                                        20 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2832,7 +2831,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 23 Jul 2024
+                                        Last played on 25 Jul 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2841,7 +2840,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            114 / 158 achievements unlocked
+                                            12 / 17 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -2852,7 +2851,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2024, 23:06:45 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2024, 02:23:08 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
