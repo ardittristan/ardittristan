@@ -2489,6 +2489,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2544,7 +2549,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            9.63k hours played
+                            9.64k hours played
                         </div>
                     </section>
                 </div>
@@ -2607,15 +2612,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABgABAwcEBQgC/8QAMBAAAgEDAwIEBAUFAAAAAAAAAQIDAAQRBRIhBjEHE0FhIiMyURRDYnGBFSRCUmP/xAAbAQABBQEBAAAAAAAAAAAAAAAFAAECAwcEBv/EACERAAICAgICAwEAAAAAAAAAAAECAAMEEgUREyEGFEFR/9oADAMBAAIRAxEAPwCtfq5NL4TTZylNK8cEJd6kLGtXeyTEfnHBG2maVFT5n0feivonw81nq11lf+zsO5Lr3FW7pfg70rYRKZ/PuJB9Tebxn9qD5HN49B67lq0lpzsJIGGeSfSvRB2bsjH2ro2+8JOj72M/Lnjk9GWTAFVf1v4Uar04rXmkS/jrUciNRlsVHH52q49ExNQVgFkAikeGyKjhlWYMGG2RThlPoftUg4FGtwi+RJXFwU/5jmiHw36dXqbqqNbvnTLbDt7+1DjOAGcj4FGSKtjwIRLfRDMBuleVtw/T6UF57MfHxTrOjGq8hlx74rCBIbNVWNVCgLxxWKZGb4mJA+1QPLknFMr5OG7VkFlr2gsxhxMcIJkF224BNZtteb4vJkAYYxg81q2Y5yO1JZDvytNXbag2UxPQHEo7xq6Y/oOsRavYoBDdvskVRwvvQQSCq7TyRmr58XPLuOldQVwGbyvlezVz9YHNqu4/GOK1n43mnIxgLIFyavGZJINyvH/gw70d+EGqCC3ijkbaglYN+1Av5YU9gal0K+bSdW2yHFtNgL+9dfMYn2cciWcbaFOrTp8SBsHjaeRSLEH9NB/TfUUM8aQ3DgPgBefSiiNwRjPBrIr8aylipE9Ga/XYmQWOfj7U+/BwCNtY+/4Sqnd71odb6httPUxpIGn/ANc1GrGstOoEZa9vcGfF7VvL0y7hhYFBHn+aqCzHl2yHuH5PtW2621U6pqa20D7kzmStdGuxSg5VRWs8Fg/Wxx/YA5OwA6rH9K8XESTxgE8jt7V7+lsGmwN/ejjr5G1/IOVtzssVlq19pfy5ke4i9JEONoos0vxAktovLt76M/pkGSKEiCBhfp9c1G9vE642IPcDBoVl8PTe3QHuE6OUNY1aGOp+IlxNGYZL6JEPfaME/wA0J32s3V6xjs1kUH8+Q5FRLbRxHEao6+pYZqQKo4Hb7CmxeHqofoiSu5X1qsjtLcQKzO26Q92+9TA5U4piAeKb0wKLKvjbX8gtmPe7T//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAwEBAQADAAAAAAAAAAAABgcIBQQDAAEC/8QAMhAAAQMEAAQEBQIHAQAAAAAAAQIDBAAFBhESITFBBxMiUSMyUmFxFJEVQkNicnOhgf/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAAIGAQP/xAAkEQABBAEEAgMBAQAAAAAAAAABAAIDBBEFBhIhFDETIkEjYf/aAAwDAQACEQMRAD8AmJDavMBPy13x45SrbY3uvqMz6Qnqd0U4rjk7JLq1b7Wgl1RHapxyclVdnAJ9rFaRpQJPArpsje6JrVhmSXVIct1okPpPQpHzU+LDi+M4Gwgvttzrrr1KXpSEq9tGv1O8QHGVFKUMxvpLSOEf8ppX0mab7j0mTaUgAc52MpF3DBcmgoLlysMthKfq1QtJaUHClauaeo1rhqmY3iG86oJcW3JV/enY/wC103K34xnLH6e5RGoc3XpfZAQkH7gda7Y0ieIcyoaLnN5MdlSbIjkq0kbkdd9tVwupIX6R6x81MbP8Ln4ddjFkJKoqztD2uRSenOgiSySpSgNAdD70rLMFL/6cuva62khCuNQ+yvxVNYJZGsFwZEp1A/i1wG1K7obPNJHtSExKAi5ZNbICxsPO6I96oXxPkGO40hCuTcdDQT2GhqmOl1vmnAf6R9JreRc7vCFGmp2TXp2LGXxNEfEc9qObVhtriN8SkqefQPWFndefhxARDx0LKCl55Z2s+1G0l9q2QEPyEhLh677ihty7kkoP8euspK65rt0xxuw0ITuGJ2iVHLi2iyo8kcPLnQHdrZNxaawlSyqItW0rPb/2nNbJ8e7NuKbSlTiR6Egd6Hswt6ZmPzWXUca0JJSfpNeG3NzzW5fHs/q5Ky1oFlvJ+WlY7kFnPMNlWqQAqc2gqirVzUVe1S9OjKjyZEdYILCy3o/UDo1RfhhLU3eYq1KI8tZSB76GqVHi9bW7Znc1lscPmfGI/wAjvdNNXq/DN9PRWsu/YskZ1lYmHzm7XlNpmuH0MPcSqoPxPjKcdbdHNp1hDp/BG6lxlz+onmfaqfw66ozzA2RxJN3gJ08138oDSappNj4rAL/SrTeQ8sPorv8ADucmZjiGm1jzWVniSeuqNJsZu9QEIWQU/KsDqBSViSpuL3lx6K0pxpXJ1A7CmBbcts8xKXEzEx3wNuNk9KD3RtyW3J5NftZd7LWh3TI1uWlE9ptjNkZWlk8LQ5pJOyT+aw8tuCYlinSXlgcSNNp+o143DKLNGHE9PS6eqEJJ5ml9frxLyuW18FTUFlXpHZVDba21PBP5FjrCpI+1r1pv1w0LU8MYi5F4jpIPA6sqH560q/GC4IumeXB9pQKGEhpX34Tqne1JZwXDpV7l8KZPARCQeql+37VLlylKkyn5K1fEfcU8R7lR3qnesWBJNhn4tbaeWFsQPQWVGf0AO26LsOyi4Yrem7lalE9AtHZQ9iO9ADD3lucuYNaUV8g649A0m7ae0vyA0AntVdaL7jWfx0qYkN2y4qHrjvH1LV319q8Lh4eT2ypSIZSnsoa9QqaGHylQcadWlwfzNq4T+9FFozm/21A/TXCSvXTznCumtfWJ4Rw9hHMuuOGyNyE6YXh5clrSpMJbv2OuVak1eO4MwXb1MakSANiC2dL3SIuniDkdwRp6e8j/AErKKEpkt6Q4XZT7zi/qdWVGuz6zPIOA6CjrhBIibgIt8Rc4m5ldA8+FMQWTppkcgkDpy96A5Dp4lcPTtuvkl8kcPFy+1Z0l/jUB0ApSSXH/AFBHGD3klf/Z" alt="" />
                             <div class="about">
-                                <div class="name">PegIdle</div>
+                                <div class="name">Revolution Idle</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie
+                                        Casual, Indie, Simulation, Free To Play, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2623,7 +2628,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        58 hours played
+                                        39 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2631,7 +2636,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 19 Apr 2025
+                                        Last played on 20 Apr 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2640,7 +2645,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            81 / 84 achievements unlocked
+                                            70 / 240 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -2651,7 +2656,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2025, 23:06:14 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Apr 2025, 02:32:23 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
