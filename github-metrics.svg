@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1873" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1853" class="">
     <defs>
         <style/>
     </defs>
@@ -34,17 +34,17 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -668,12 +668,6 @@
                             </svg>
                             Commits streaks
                         </h3>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 1 day
-                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -2666,6 +2660,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2707,7 +2706,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            2116 games
+                            2133 games
                         </div>
                     </section>
                     <section>
@@ -2784,15 +2783,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAABwYBBQIDCAT/xAA1EAABAwMCAgkACQUAAAAAAAABAgMEAAURBiEHEggTIjEyQVFhcRQXI0JzgZGxwRUlMzVS/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgMG/8QAIhEAAQQCAgMAAwAAAAAAAAAAAwABAgQFEhEhBiIxEzIz/9oADAMBAAIRAxEAPwAIxlIS4kgJOQP+j6CknSXCO935j6XcVptbCkgoU+nPMnyxWOBemWb3qZ+TObLjNvQHiFbhXtT7KmKecKWV9VHb8DavP2FLMnko0PWP1FVamyLhwMigD+8x1H1ANZ+o+Mdv65GR8g0q25iI6cyHer9cmtqhuxtd6+tPsqlAs2cv9H6RMqmjoVHA6IEkG+xv0NY+o2Jy/wC9jfoaTZRSHlcnhzt8V1lQHpQcvIis/Elu2Mi/bIW1LwYu9tiqlWeS3dMD/GyncfrRc82uO862ptSXk7ONnvSfOvX7Mt1lXMlzsDxtJ2IHrRB0gtNxor0O/QWS2mceqUE7AEDvNP8AF5aF30dA3Kn42X39Hba034+fUd/50hBWw+KO+j3tZ79+D/NXqVd3xSDyPsvsj8b2u4qyVBShygZreaZtDlyfQ68OVlB296nUrSCCpJKQd6UrBJQ7bWVRWcNjYkUFiK8LRdCP0tLxHh8UxqqxrhEyYoKkY3HpU1z+DCh2jvnypWuUkIhvLeZ5mQnfNFEt1tchamkHkKjir5umGuTWCrSLOb8OsqV4t+/b5qW44HPDy353w8rHttVEtWxqb41HPDyB+Mr9q08c2GfplOSbiK0/R9JFn1ABunqB+9WgWAEhGSaiuj7tZNQpTueo/mrSA09MdSxGRl34ojyIUnO0VTGOzhd5LJX9nzLBKM7gUi6FWJUJTLgWlbY5gAcbVLq0xObtaXVxnOuCjzJ9vWrPRVpNotxXLJDzviye4eVZ4emQJmcjdKbp4TFrH6vuvkIrgllsLUpzs7HuqVZ0PJBKn30FsdoJAwaQgQpI3GPKuJQQQdzXR2cYI8tnZKx2yAbWKEJaS1JW24CnlUQKmuMhKuG0FXo+ulTiNaWm20zWRjffFFPGJQPDS3cv3n1/tSXHUyVbmkviYHMxw9/VH8A74zB1BLtMh1LTU9AbQFd5NeotMaaiWtSn2VB1a+5ecivBrbjjLgW051a0nKVjYj86bND8eZlnioi3+MuYAkIbU12dh6105KcCPyX6lbHdm0ivVowRynBztWk1fDXKtKw04pBRvlJxRQ30hrR96E4MDPiFcJHH+yvsLaVGc+02HaFWIGMo6MohsN+ZK3tWo7uhcZmTAcW0o9WlYGM4rX3jWtyiXZxLYSmMBjlKcnPnUk5x2sCks88N3mjnISlQGa0y+Kmj1SFSVW2X1qiVALdBBNKbFK4/oOfSMCcDS4myY9O3hjUsd9ic1gtp5lKPdigbpF3aIwmFp23rALLhdXvnINdN54zx4UN9nSFvdiyXQQtb5Cwfihy4S3p892ZNcU9Ie3WsnI+BTCmAjNyf9mQ1gnE+I/F//9k=" alt="" />
                             <div class="about">
-                                <div class="name">Latex &amp; Tentacles</div>
+                                <div class="name">Let Them Trade</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Indie, RPG
+                                        Indie, Simulation, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2800,7 +2799,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2808,7 +2807,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 1 Aug 2025
+                                        Last played on 2 Aug 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2817,7 +2816,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 21 achievements unlocked
+                                            7 / 28 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -2828,7 +2827,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2025, 23:07:31 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2025, 02:32:25 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
