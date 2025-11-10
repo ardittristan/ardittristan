@@ -2588,15 +2588,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABgcABAUBAgMI/8QALxAAAQMEAQMDAwEJAAAAAAAAAQIDBAAFESEGEjFBEyJRFBVxBxYyNVJTYWJykf/EABsBAAICAwEAAAAAAAAAAAAAAAUGBAcBAgMI/8QAMBEAAQMDAwIEAwkBAAAAAAAAAQIDEQAEIQUSMQZBBxNRYRQikRUyUnGBkrHR4vH/2gAMAwEAAhEDEQA/AMG1W7q+a3U2gEDvUsaQU9qJG0JKBqnJhhITSi++oqzQ4bQM4OSDUFoSR7Uq1RMEJGRjY3XrCi/VS22AoJLhxWXQ0w2p1zCUgk/kMmuSXFrISnk0NxuPPSXFpitLc6Rk4r3HEpwGTDdBpm2KyKtbzqlOpWFjGq2ihIGRmqk1nxH+Gu1N6ehDjeIUd3cZ7jg+1NNpofmNBT5KVemKSMrjr8QJXJZWgK0M0P3S2BCV6OKfPILUq6RmkJdS2UKzsUsOXQDbnlx3FpcIGfbTV011Nba7bhDhAfySkA4AMTn2jvQ69snbJzcmSjGfes6xHQwD0k7ombACcDYq7bI6XbVJSywkuKGE4Hmo3Z7iG05iLOfipuh9V2eoNKU6oNFJiFKGcAzmK4ahpjrCwEgqn0BqnnAJHer1jx94h5/eKqrSGHo7xblJ6F40Ks2L+MxeruFaoxqziXNMfWgyC2ogjIPymoFqlSbhAUIMj+aDv1Y/Ua/8e5deoFtvVutzECG1IZYksFa5a1HaEH5803G576uKRZ+vqXIrbxONdSkgnVW5Vrtst/1plvhvu/1HmUrV/wBIrpd2FLs8hlhBPUjpQhPj8V5luLy2fZYZbZCVJ+8fxcc1Ztugh0FRwSKETye5kEZbzjftoT5NMdnKW/IKS4RjQxRD9muQTn6RwnGDQxyGO9GC230FtzGcGm/pS8bsL0usN7yUkQnnMZ71P13T7a7tg2laUZBnHacc0ccWyGQO26MFSG2GkF1wDq1ug/i2kj80R3lhTsEKCgOjfakm7SFPQahMpCiArE10kW+23WUXVKK3QMHB8VzGsMKNIbfQF+o2cpyrzWNDlOxVKUyRlQwSRVoXiZgZKD8HFEvtXVUM/DN3CvLiI3GI4iPStnNDZLnmJQmeZPM0S7O1eagOseKp2p9UmJ1ud8mrf83wBS6pJSdprCk7TtPasfktwk2+MyYpHvUQSd0sOUy3Zzi35BBWR06ph82GYkXJ11mlpezhpeAa9AeHthbJ0du7S2A6dwKoyRu4n9BSPrTzhuy0VfLjHvFEfEL609IbjhpQU4rHemS2QpsAgfg188WG7mI+h5sgLScijFHOJoGfUQCe2RS/r/QKrt1C9K2pTGdyjzPbB7RRK11nygU3UkziB/ymHPtnryCtDqEjHYCq/wBlX0AB5Hf4oG/bibjHqN5/1qHnE069VvX+NBx4ea0BG9H7v80ST1O0kQN30H90zbbH+ljBpSwreciu8yUmLFdfKSoNjOB5pXq5xNIAU4jP9hXnJ5nLksradcR6bgwcCtrfw31IvoVcFBRuG6FHicxj0qK9r7K0qKQdx9u/1oiv96aukZtCGlIKD1boJvagGVdShUVdW/d7s5GKxrtcklCgkjt5q5bGxtNKtBa2ohAmBJPJnvmlRa3rl7zHMqNf/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABgABAgMEBQcI/8QAMRAAAQMEAAUCAwcFAAAAAAAAAQIDBAAFBhEHEiExQRMUFUJRIiMyQ1JhgSQ0kaHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAfEQADAAEEAwEAAAAAAAAAAAAAAQIRAyExQRITgXH/2gAMAwEAAhEDEQA/APKppUqagCYOtKHcVfDjOy5bcdhBcfdOkJHk1SdDeuxFdF4dQGrRa5OUz0goZH9MD5WO9LTwbgBrzbJNpmmLObLb4AUQfoawwo9T4V0rqeW+nnOMfHozYTPjKUZAA7NjtXKyDrr2ol5DBE0hTU9MYLvSpqcUMDcYvZX8gvEeBHB+2r7Sv0j60X5zO+L3SBjVk/tmCGwlHzOa0rdZVtQnCMJemujlu9ySW2we6E9wahhbSLDYpmU3IBUtzYiJUOvOD1NQuuyiRrsekSsGykwbunUZ9ITJQrsUGtXn9hVZLyopG4kj75pQ7aV11Rde3hn+KruaUpF4hEreSB1UjxVVjWnMsLftMo7u1v24yT3V4CaJrtmtHLTS7VN5tTTq21jS0KKSP3FV1dEi3oClKh031ot4cWFF2u5lzAE26H948pXYihaMw7JkNsR0lbjh0kDya6Plj7eJ4rHx6EdTZA55JHflUN6qeo6awuRkjDf9zn+dBlKFCE1pshPZDaexogukIZZc/TSoR8WtKQlxY6cxHRX81Gyy2+G+ORZL7Qcu04nmT5S2eoJp7zKOI3Vq4R0mVjt1Qkvsp8qI2oD991zt1nbjookIW1nFbixf8ad93jrh9OSgnZAHfe60GSx3cPyuLerUFGG+Q8j6Eq6lP+63UaejNroxaLNGcg4/HPrPtqPXR77I8VsZ10iZ03cbE2ylD8Jr04aumlKHT/lCdJ7/AEGgR4l2hlwRsgtiQYUxICuX5XNbVQEoj5R4610bAJiXW5+JXf8AC/ttnm+Re+poIvduetNyfgyElKm1HW/I8GuiG1sybQacOoDVtt8rKrgElqKD7dsj8ax0IqGIRFZDk8m+3hW7fFPru8/lPhIp08Rl/DEQPZsiMFFQRyDoTU2eJSo8N2IzAaTGdHKpIQOtSfsfAyZS0HM7zhbjpKLc0QlRPZDY7UWLv8DLHpeLBCG47SPShr1+YOhNDMDiQqAh1ESAyhLqeVekDZH0qmPn6WHxJZgMtyEHmQoIHelc2+vw1VgKGrhH4Xwo0XlS/cXnCJPT8vxQ5mENeMX+Df7IsmJIIeQR+sjagahcOIyrlM91cIDTr2gnZQPFTd4luPQEw3oDS2WyVNgoH2TRMai3f0zyJ8QIaJcaFldlPK27pLnJ0KHAOp/zWRljbeX4fGyCIlKZ8QenKb115EjQV/NYrPEtxu3+wFvaMMklaOQefpUYvEhcRmQzHgtJYfTyLRyDRFN42lwGT//Z" alt="" />
                             <div class="about">
-                                <div class="name">Lossless Scaling</div>
+                                <div class="name">Islands of Insight</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Utilities
+                                        Adventure, Indie
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2604,7 +2604,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        23 hours played
+                                        136 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2632,7 +2632,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2025, 16:08:33 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2025, 19:10:17 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
