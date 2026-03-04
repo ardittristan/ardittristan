@@ -2532,7 +2532,7 @@
                         <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAQEAAwEBAAAAAAAAAAAAAAgHBQYJAgT/xAA1EAABAwQABQEEBwkAAAAAAAABAgMEAAUGEQcIEiExYRMUQVEVNlRxgZGyFiIjJieSosHR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJUpSlB9fdXaLLw/yq+MpftNklymleFoT2rvXLNhkXMMydVOQFtwEpeKT4I3ruKuSJCi29hDUNhphCRodCQkUHnlJ4TZ3Fb638YuCEjuVFI1r866bLjPRJDjEpCmXWz3Qsd916gxpMaYlQYdQ8lJIVo7G/lWJ8zuB264YPMvcaKwy/b0F5ZbQElQ8fCgiGlKUClKUFKckv1oyMj7Gj9dVNmBWnGLiUFXtC0dFJ0QfSpZ5JfrRkJP2RH6qrxxCXElDiQtCuxBoJd4C5mcYiXVu+tzF7kOHqcUTodXrXMcXeM2N3jAr/ZWHSJkmOW2kk+Tut/+ibd3H0fEO/P8JP8Aysm5jcIskvhzeLqmFGYlwWC62ppsJJO/SghOlKUClKUFK8k5P7TX9IG9RkE/3Vr/ADJZbdsRxWLKsjiW3luFJJG/hWQckw3lGRFJ1uIgf5V33nHP8jW8KCjp8nYOvlQZlC4j8XM8hIi2WEp8NgFbsdnp7etbrxM9+HL1e03b92aIGndjwe267Nw1szsDH7fKkKjBbsJoD3dvoGukEb+Zr8fHo/0eyg9iDEPUfTYoPOulKUClKUG88pORwrFmktia+hs3FpLCEq+YO6oXmCwafn2NwoNpdQhxDvWokb2ntUDMuOMuIdYcUh1J2lSToj8a0zHON2a2CKiNEuLbrSB29sjrUfxNBedjirg2O3xHCC4xHbaP3pSB/qsr5mcshWXhxcbU+4kzLi0WkIB8fHxU5z+YnPZbJaXLiNpPY9LGj+dZfeLxPvElcm5y35Tqj1bWslIPoDQcXSlKD//Z" alt="" />
                             <div class="about">
-                                <div class="name">Tom Clancy's Rainbow Six® Siege X</div>
+                                <div class="name">Tom Clancy's Rainbow Six Siege</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2624,7 +2624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2026, 13:19:20 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2026, 16:18:18 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
