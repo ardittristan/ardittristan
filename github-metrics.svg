@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                             </svg>
-                            24.9k chapters read
+                            25.1k chapters read
                         </div>
                     </section>
                 </div>
@@ -2580,7 +2580,7 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwABBQYIAwQC/8QANhAAAQMDAgQEAwQLAAAAAAAAAQIDBAAFEQYSByExQRMXIlEUMmEIUnHRIyYzNEJicoGCkZL/xAAZAQEBAAMBAAAAAAAAAAAAAAAAAgEDBAX/xAAlEQACAgIBAwMFAAAAAAAAAAAAAQIDERIFBCHwFDFBFVFxgdH/2gAMAwEAAhEDEQA/ANQw4qIjAaZyEg55139qWc/Q1EXbUlotClJuU9qOQM+rNASrriGm1OOKCUJGVKPQCqdJ4oaKivLZf1HBbcQcKSVHr/qgzx71xA1Q03arBrODBip5ukBWV/TIoCL0Va3MrVrS1qJ6lSVE0Bt3zZ0Jz/Wa34H8x/KkeK+hcjOp7fz6DcfyrFkvhpGhQmZknVVsbivHa24UKwo+1PcuGce2KbTO1XbGS6kKRuQr1A9MUBtE8WNCdBqe356fMfyq3oUxcYYW0sOR3kAhSf4gemKzFwq+zgGJ8S86iuDEyHgOtMNJIKvYnPatQx2URWGmGUbWkJCUgdgKA6k4znoO9CL7ROuoGjNJuIEeO/dpgLbG9AVsPXJFFwg4z1PtWdtf8BtQa71W/d71qOL4SvS2yltQ2JHQe2aAB+iNVX/VF8Zt3wVrVGUrL7nwSfQk9ya9qeH101drwrj2CTHtDR2ubQAF47j8a1Bwi4SWrh6xJKCiVKkJ2uOKGRjPbNElphpn9i022D12pAoDHMPhXq/U+r0S79ZH4lng4Q3HIADqU8htHTJ5c6t+kuBt5umuWb5rF1owoywGou3HoHyg/wBq033zmmHXry980AzLSGWUNNJCW0JCUgdgK+6VKgKrxNalv6CvbVt8X4xbGG/DOFZyOhqj8M9A3G13OJcLrNnuFLSVpQ4+SndjmCKJl9eW3EDTeC68dqahXIMxLLbi31No6Kyen1rVKzDwkdFdCnHZywDLUlruD0y8qu0G9SLkv91VDklttQzyAT74qy6sst6u2m9LQHlym1qdxK8FwoWlG3kCferOwwuWlUplS3Gm+QRn1EjuDXiuTioQcd8ZbzW0FKEqO4K7jNZVmfg2x6LaWql3K1wislytGs718U3cY9vLKUMomvFwkg/MPxqr6qtTsjig06zEvyLbFWHVrTKIQ8T1SBRRmOtM7ng66kR2kvP7lEkpPYV2ctD7qHnWHQpC2kuRweoJ9/erTyPRpJZlj9efki+Kjl0k2S22mzRJbzE/DcosLw403jI9XY570/BtV5g2p6zX+NJQ/FUVoeeVkqQT6Rn3xXlm6ikWJuapKvEdW0ERwef6TvU/w5uwu1qU4+6HJ2T4g+6KvX5Lu46yqp3PvEnL1DkSXYbsVaUlhe5SSM7hiotFruyG2mfiEKZ8VTjmRkkHtQwRxbu605QllQ9wgU/mxeeXpaH12CofTZex6sOE6+EdUotef0KKbfdmlyPBeZQhacIAT0rmxZJaAyFLbV4ayvmnOSaGfmxePuNf8Cl5sXnHyMj/AAFZVGC1w3IfaITE2aYJMlRdaUy+naUlOa+WbdfEGLuls7mnCeSORR2FDTzXvG7mlnH9ApebF5HIoZPthAqlW0Po/IP3UX5gud10NOmW9giayJzMhbwWU5SQe2Km9D6XGnIDiXXUuynVFS1pGBz7UMTxYvJHysj29A60x4sXhCfWln8dg5Vesi7eM5S2p0ya19z/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAUIBAcBAgYJ/8QANRAAAAUDAAcFBwQDAAAAAAAAAAECAwQFBhEHCBIWIVSxExQxQVEYIjJhcZHhFSMkgXSElP/EABYBAQEBAAAAAAAAAAAAAAAAAAADBv/EABkRAQACAwAAAAAAAAAAAAAAAAABBBMWUv/aAAwDAQACEQMRAD8AtSAAAAAAAAAAAAA4zniXEg4+Ywas3OXHxTHW2nvVacl9hqy9LyuS3Vd0lKYdcd91JNoIjP6APNaaNYJq2Z7tItZtEmc18chREptJ+mPkNLr1jdIKlGffYZZ9I/5ExUqS8t56ZIsSqPk4o1m8TicKMx5B257XafUwu2paXiPZNvbLJGAlfaM0g5P+dEP/AF/yOPaL0g89E/5/yJG8JFl2zBgsv0KSdWeSTrjfaF7qFFkh3rztmUC14MmoUKSmrTFGfdTcIlIRjKVn8jARZaxekHaJXfomf8fh1G+NXu49IN4uu1O5nGkUYi/aMmdg1qzxwI3QNYlv3JTCr8qgux0mo0tIfwZKx54FhYsViJHSzFZQy0j4UNpJJF/RAMK461Et6iS6rUXCREjI21q8B89dJt91O8btl1R2U6hG1sMpQo0kSCPgeC+QuZpq0e1vSFGjwIVYZp9NQracQpJmbnDwPA11SdVmnNKQdTqRvkR+92ZqTkBrzRJbt3KtmVckNiqVN9RG3BZ7VRpSsvNSTPiWBK6NdCtz/rEu4a/ANmYyZvsR3U5JbhmeSMvMuIttRabGo1KjQILSW2GEEhKUljwLxGbxzkBVm39XmuVC8G61dFSYcY7U3FsKSZqNPHCfoWR6V/V2arNynUrlqhSmCMkpaZ2kmTZfCn7CwXDwD08gGNS4EemQGIcNtLTDKCQhKSxwIsfcZQYAAAVn32rvN9Q32rvN9RTHLT6tY7hZgBWffau831Dfau831DHJq1juFmP6AVn32rvN9Q32rvN9QxyatY7hZgBWffau831Dfau831DHJq1juH//2Q==" alt="" />
                             <div class="about">
                                 <div class="name">Forza Horizon 6</div>
                                 <div class="infos">
@@ -2624,7 +2624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2026, 15:24:13 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2026, 18:21:22 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
