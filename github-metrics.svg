@@ -2574,15 +2574,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwABBAUGCAID/8QAMhAAAQMDAwIDBwIHAAAAAAAAAQIDBAAFEQYSIQcxQVGBEyIjMmFxkRRCFSQ2UmN0wf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEFBP/EACgRAAIBAwMBCAMAAAAAAAAAAAECAAMRIQQSQSIFEzFRcYGhsRUyYf/aAAwDAQACEQMRAD8A5YznvUtmBJkRnZDLSltNJytQ7JFROM8cVa2u9TrfDkxIpbLUhO1YUnJIqm3W6YyntLdfhKnGMYqTBiLly2o6DtU6cAmrDTtq/iFyKJGUIQNy/tXzQl6FdEvwhja6UtlQzyDU9J0JpWCrVcdJNv7jxkBbYYfW2rKghRCsfSvc1UdbgMVCm0YGQo5Oa32vbVEWxbJQ2xXpGEu5GATjvWNkWh2Mw448dm3lOR8woabhxcekfq+zqmmqNTGQOfa8qx9e1Id/KrC3wWn4zz0h4NJA9zd+41BIAJ28+GaK/EzyhUAnmeQCcCtdonTpuV5Q2VBSUgKxWQz71HHpO5bdOaYmailMLkvMJyUhXlS65dUOwZ4nXoe6VjUrC6rnHx8yo0TpyVF1k8i5o9mwo7feHcZ4rWtdPo6tXBUdpRRkK55SPSos7rJp+dLRKXYpKVp77VgVat9frOhWU2KQCEgZ3DNZlRdYW3KM2sc8zapdr6OhTCqpY5ObYPnI/WrSSpf6VuE2pK2gNuO2cVX6f0VLlWGTG1AkF32XwiE4NW7/AF9sr+0u2N9aweMkGk51+sqhuXYn1HtwoClLS1qU1pgDHMD8xpSwqMrbrWPkfUQFXKyvs3CZGQFJRH5IPlVIr3SQeMV1FLYsF9gTLjIZENh9gHKu/n3rma4NttzpKGVBTQcUEnzGa1aFc1GKMLEWvMnVLQZBW05wSfH69pDFEbRalK6famSpRKRH4BPA5ociiLon+gNT/wCv/wBpzzNqfrMAn5R9qemT8o+1PRy4sUx7etPTK7eoqSQwa2nPwtAWwMEBLo2n8UHcnkn5u9FjqJzoC0Z48vxQlHgfCloMQNO7FLE4BP3Gzxit3oDUNnt1puduvbDrrMtvZ8NW3xrCcbuOB9aR70RF4wi4tCJu6e7R/KTyR/nq+0pprRWqZbzFtizgppIUoF7OBQeHGDxWx0X1Du2kIi2LU3Fwskla2gVH1qiptiKem1jtOZrtUaa0ZpyUGZ0Kfz4+2qj3dPSkkRJ+fAe371A1f1HvGqoYj3RuIR/ehkBX5rF49KiqbZlU6bW6zmETqDqy03ayQ7daI7rbbB/erPhQ7BpYGO3NLw47VYAAjEQILCf/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgIDAQEBAAAAAAAAAAAABwgGCQADBQQBAv/EADQQAAEDBAECAgcHBQEAAAAAAAECAwQABQYRBxIhEzEiQVFhcYGRCBQVJDKhsRY0UlNjwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBVvXUytXGWXXWA3NgWWS9Gc8lpHY1DPYTViPBhSjjK2FekpCdkq+AoEtTxFnHV0psEsg+Z1XXxPi59N9ixcnBjvOK0iFvTiz7jR+5o55gY029a8cUiVcSCkuJ7hs0B+Ocgusm73bJnVrm3eOjxIrSjvS9+w0Gi48P5NMn3D7jbnUCPspYV3UU77VyBxFnJIJsEofKm9+z7brsrHn71kZX+JznFdSFH9Kd7A1RVUkHsANeugrmncW5jCiPSZVjlNMNDqUpQ7VClpKFKSpJCh2I99WU8lJH9AXsaB/Ln/wAqtub/AHr+v9iv5oO/gGMoyi/swXpjUNgkdbrnkBR15LyLKbRiwx3FIT6bLFbHizkEEK7aOj5ilqaeWz6TTi2yf8FaNGy3yJWLcJypk991cq8lUdpLqyrpA7ggGgCTq3HX1KfWpTij6SlHZ3U/wLK8ftNodg323y3lqJKXozvRr40PthR2oEqJ862vw5EdtK32VtoX+kqGt0BltPNd1xm4NtWKSDbNjbb/AKZA+NM3ivMmIXiFH8e8xWZikArQo67671Xx2+FfptS0qHhlQV6insaCx7MbjDveC3hFoktS1OMEIS2ruTVeV/tU62TnxPiuMEuK11D31JuPbfk16vjESBMmsMKI8V0rV0IT7TXU5qy1q83Fi0wUtGJbwEl0J9JbgGlEn1ighOI2g3zJINuSQA+4ElXqApmOUsfxKUi2R7xksSPAgso/KJJCioJ0e4pVmH3I7iVsOKbWPIoOlD518ekPSFFb7zjqv+iio/vQMThF645iZRbrTYrK9JW850qffWFpHv71L+ardxzcJrEi53SKz4KQBEjnoUT8qUZl5bDgdZWttQ8lIOiPnRu+z1xhJze9ovF78VdsjKCgXSVeKd+XegLXGnDWGXm1C5rtctplZ9AOu76h7aKNs4wxO2pH3e0sq15daQo/xUuix2okZuPHbShptISlKRoACt3kO+qCGZ1a7fa8EvblvhR4yxGOlNthJ+oquiaSZskk7JcVv60+nNnIuPWPF7lbn5rS58hooSwlXekIfWHH3V60FrJHu2aDTWVlZQey1GN+Ixvv6VKi9Y8QJOiRVgfD+TYnccbiQsXkMp8JACmAfSB133Vefq1sV7bTdZtnlNybbKejvIOwpCyAfpQWO5jm1jxCEuReprTSgNhsn0le6lY5R+0Xc734kHGEGFCO0lxfdSvgRQPvd+ud8k+PdJjr6/YtRI+lcwa7/wA0G6dNkz31PTH3H3VHZU4oqP715/VWVnxoP//Z" alt="" />
                             <div class="about">
-                                <div class="name">It's Fine</div>
+                                <div class="name">WARDOGS</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Simulation, Strategy
+                                        Action, Indie, Massively Multiplayer, Simulation, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2590,7 +2590,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        9 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -2598,7 +2598,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 28 Sept 2026
+                                        Last played on 30 Sept 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -2607,7 +2607,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 67 achievements unlocked
+                                            0 / 10 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
@@ -2618,7 +2618,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2026, 14:15:01 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2026, 21:54:42 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
